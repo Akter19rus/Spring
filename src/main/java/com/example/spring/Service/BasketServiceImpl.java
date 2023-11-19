@@ -24,4 +24,5 @@ public class BasketServiceImpl implements BasketService {
     public List<Integer> getProductForId() {
         return productForId;
     }
+
 }
